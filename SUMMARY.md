@@ -19,11 +19,11 @@
 * [HƯỚNG DẪN PHÁT WIFI BẰNG SHADOWROCKET (IOS)](huong-dan/huong-dan-phat-wifi-bang-shadowrocket-ios.md)
 * [HƯỚNG DẪN CẬP NHẬT SUBCRIBERS](huong-dan/huong-dan-cap-nhat-subcribers.md)
 
-## 3️⃣ Chính sách & Cơ chế
+## 3️⃣ Chính sách
 
-* [SERVER](chinh-sach-and-co-che/server.md)
-* [ĐIỀU KHOẢN](chinh-sach-and-co-che/dieu-khoan.md)
+* [CHÍNH SÁCH & ĐIỀU KHOẢN](3-chinh-sach/dieu-khoan.md)
 
 ## 4️⃣ NGOẠI LỀ
 
-* [CSA FREE SỬ DỤNG NHƯ THẾ NÀO](ngoai-le/csa-free-s-dung-nhu-the-nao.md)
+* [SUB ĐƯỢC CHIA SẺ SỬ DỤNG NHƯ THẾ NÀO](ngoai-le/csa-free-s-dung-nhu-the-nao.md)
+* [CƠ CHẾ SERVER](4-ngoai-le/server.md)

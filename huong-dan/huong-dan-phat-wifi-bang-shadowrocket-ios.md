@@ -1,6 +1,8 @@
+---
+description: HƯỚNG DẪN PHÁT WIFI BẰNG APP SHADOWROCKET
+---
+
 # HƯỚNG DẪN PHÁT WIFI BẰNG SHADOWROCKET (IOS)
-
-
 
 {% embed url="https://youtu.be/Lt4B1UYBQww?si=v4F8gD831cU26_2D" %}
 
